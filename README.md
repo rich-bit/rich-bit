@@ -1,6 +1,6 @@
-## Hi, I'm Rick 👋
+## Hi, I'm Richard 👋
 
-I'm a software developer at a company in Lund, Sweden, working primarily with C/C++/C# and Python. I focus on building reliable, efficient solutions and continuously improving my craft.
+I'm a software developer working primarily with C/C++/C# and Python, this is my private GitHub page. I focus on building reliable, efficient solutions and continuously improving my craft.
 
 ### Currently Working On
 - Building an NVR (Network Video Recorder) system in my free time
